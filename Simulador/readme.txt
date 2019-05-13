@@ -5,7 +5,7 @@ O programa implementado nesta pasta simula um trânsito de veículos com dois cr
 O usuário apenas deve iniciá-lo, sem qualquer tipo de pré-configuração.
 
 Os carros são representados por quadrados pretos.
-Para rodar o programa abra o projeto no QTCreator.
+Para rodar o programa abra o executável no repositório de build.
 
 Lista de arquivos:
 
